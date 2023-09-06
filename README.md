@@ -12,6 +12,7 @@ A docker structure, with docker-compose, to quickly create an environment for an
 
 ### Application composition
 - Symfony 6.3
+- Vue.js 3.3.4
 
 ## Commands with `Makefile`
 ```bash
